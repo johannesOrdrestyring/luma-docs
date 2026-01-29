@@ -1,10 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="40" height="40">
-  <defs>
-    <linearGradient id="lumaGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0066cc"/>
-      <stop offset="100%" style="stop-color:#00a3cc"/>
-    </linearGradient>
-  </defs>
-  <circle cx="50" cy="50" r="45" fill="url(#lumaGradient)"/>
-  <text x="50" y="65" text-anchor="middle" fill="white" font-family="system-ui, -apple-system, sans-serif" font-size="40" font-weight="bold">L</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 40" width="120" height="40">
+  <!-- Aceve-style angular symbol (stylized L) -->
+  <path d="M8 8 L18 8 L18 28 L32 28 L32 32 L8 32 Z" fill="#4A7C59"/>
+
+  <!-- "uma" text in Aceve style -->
+  <text x="36" y="30" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="24" font-weight="500" fill="#4A7C59" letter-spacing="-0.5">uma</text>
 </svg>
