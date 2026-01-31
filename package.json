@@ -4,8 +4,9 @@
   "description": "Luma public documentation and changelog",
   "type": "module",
   "scripts": {
-    "docs:dev": "vitepress dev",
-    "docs:build": "vitepress build",
+    "generate:changelog": "node scripts/generate-changelog-index.js",
+    "docs:dev": "npm run generate:changelog && vitepress dev",
+    "docs:build": "npm run generate:changelog && vitepress build",
     "docs:preview": "vitepress preview"
   },
   "keywords": [],
