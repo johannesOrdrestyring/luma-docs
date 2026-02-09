@@ -12,10 +12,14 @@ export default defineConfig({
   ],
 
   themeConfig: {
-    logo: '/logo.svg',
-    siteTitle: 'Luma',
+    logo: {
+      light: '/logo.svg',
+      dark: '/logo-dark.svg',
+    },
+    siteTitle: false,
 
     nav: [
+      { text: 'Features', link: '/features/' },
       { text: 'Vision', link: '/vision' },
       { text: 'Roadmap', link: '/roadmap' },
       { text: 'Changelog', link: '/changelog/' },
@@ -24,11 +28,25 @@ export default defineConfig({
     ],
 
     sidebar: {
+      '/features/': [
+        {
+          text: 'Features',
+          items: [
+            { text: 'Overview', link: '/features/' },
+            { text: 'Mobile App', link: '/features/mobile' },
+            { text: 'Web Dashboard', link: '/features/web' },
+            { text: 'Core Workflows', link: '/features/workflows' },
+            { text: 'AI Capabilities', link: '/features/ai' },
+            { text: 'Integrations', link: '/features/integrations' }
+          ]
+        }
+      ],
       '/changelog/': [
         {
           text: 'Changelog',
           items: [
             { text: 'Overview', link: '/changelog/' },
+            { text: 'February 2026', link: '/changelog/2026-02' },
             { text: 'January 2026', link: '/changelog/2026-01' }
           ]
         }

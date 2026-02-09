@@ -3,13 +3,13 @@
   <g transform="translate(0, 2) scale(0.325)">
     <path
       d="M15.9557 110.527H0.417969L118.074 3.11848C120.013 1.35878 122.46 0.265625 124.492 0.265625H140.03L22.374 107.674C20.4351 109.434 17.9881 110.527 15.9557 110.527Z"
-      fill="#4A7C59"
+      fill="#6EAA7F"
     />
     <path
       d="M121.658 110.527H109.81C107.497 110.527 105.625 108.661 105.625 106.355V42.5519C105.625 38.5926 107.296 34.8066 110.225 32.127L121.644 21.7021V110.514L121.658 110.527Z"
-      fill="#4A7C59"
+      fill="#6EAA7F"
     />
   </g>
   <!-- "Luma" text -->
-  <text x="54" y="30" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="26" font-weight="600" fill="#1a1a1a" letter-spacing="-0.5">Luma</text>
+  <text x="54" y="30" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="26" font-weight="600" fill="#e5e5e5" letter-spacing="-0.5">Luma</text>
 </svg>

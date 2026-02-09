@@ -7,11 +7,11 @@ hero:
   tagline: AI-powered business helper for tradespeople. Log jobs, time, and materials on your phone. Luma handles the rest.
   actions:
     - theme: brand
+      text: View Features
+      link: /features/
+    - theme: alt
       text: Open App
       link: https://app.luma.aceve.cloud
-    - theme: alt
-      text: View Changelog
-      link: /changelog/
     - theme: alt
       text: Join Pilot
       link: /pilot
