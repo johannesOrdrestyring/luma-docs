@@ -6,6 +6,45 @@ What we've been building. Updated as we ship.
 
 ## February 2026
 
+### [February 18, 2026 — "Got a Request" — Create Quotes from What Happened?](/changelog/2026-02#february-18-2026)
+The "What happened?" flow now includes a 6th option: **Got a Request**. When a customer asks for a quote, tap it and go straight to creating one. Quotes are also no longer a separate tab at the bottom — they live under Jobs alongside Customers, Invoices, and Documents.
+
+### [February 18, 2026 — Invoice Status Visible on Jobs](/changelog/2026-02#february-18-2026)
+Jobs now show their invoice status directly — no more guessing whether you've invoiced a completed job. The status appears in the job list, on the job detail hero, and in the lifecycle progress bar.
+
+### [February 18, 2026 — Full Quote Management](/changelog/2026-02#february-18-2026)
+Create, edit, preview, and send quotes directly from the mobile app. The complete quoting workflow is now available — from selecting a customer to previewing the PDF.
+
+### [February 18, 2026 — Danish Language Support](/changelog/2026-02#february-18-2026)
+Luma now speaks Danish! All screens, buttons, labels, and messages are available in Danish alongside English and Swedish.
+
+### [February 17, 2026 — Job Creation Form](/changelog/2026-02#february-17-2026)
+A brand new job creation form makes it easier to log work with all the details. Enter descriptions, pick customers, set schedules, and add materials — all from one smooth flow.
+
+### [February 17, 2026 — Document Management](/changelog/2026-02#february-17-2026)
+Attach photos and documents to your jobs. Take photos on site, organize them in a grid, and edit details later.
+
+### [February 17, 2026 — Calendar Sync Improvements](/changelog/2026-02#february-17-2026)
+Calendar sync is now more reliable with better settings and status visibility.
+
+### [February 16, 2026 — Voice Agent Conversation Mode](/changelog/2026-02#february-16-2026)
+Your voice assistant now supports natural back-and-forth conversation. After Luma responds, it automatically starts listening for your next command — no need to tap again.
+
+### [February 16, 2026 — Sprint 1 Bug Fixes](/changelog/2026-02#february-16-2026)
+Six issues from sprint 1 have been resolved, improving reliability across jobs, invoicing, and customer management.
+
+### [February 16, 2026 — Theme System Overhaul](/changelog/2026-02#february-16-2026)
+Replaced 48 files worth of hardcoded colors with proper theme tokens. Every screen now consistently follows the light/dark mode theme.
+
+### [February 7, 2026 — Dark Mode Now Works Everywhere](/changelog/2026-02#february-7-2026)
+Every screen in the mobile app now properly supports dark mode. Previously, many screens had white backgrounds, invisible text, or blending inputs when dark mode was enabled. Now all 69 screens respond correctly to your device's appearance setting.
+
+### [February 6, 2026 — Voice Agent Gets Superpowers](/changelog/2026-02#february-6-2026)
+Your voice assistant just got a lot smarter! Ask Luma about the weather, the time, or even for a joke when you need a laugh.
+
+### [February 6, 2026 — GPS Permission & Voice Agent Settings Fix](/changelog/2026-02#february-6-2026)
+GPS permission status now correctly reflects your device settings when you open the app. The voice agent toggle in settings also reliably persists across app restarts.
+
 ### [February 5, 2026 — Production Deployment Fixes](/changelog/2026-02#february-5-2026)
 Several production features that were previously documented but not working have been fixed.
 
