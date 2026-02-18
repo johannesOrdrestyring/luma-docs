@@ -15,33 +15,6 @@ We're looking for small trades businesses to try Luma early and give us feedback
 
 ---
 
-## Timeline
-
-### Step 0: Internal Testing
-**When:** February 2-6, 2026
-
-- Aceve team members test core flows
-- Find basic problems before customer pilot
-- Validate on real phones
-
-### Step 1: Alpha
-**When:** February 9-13, 2026
-
-- First external pilot customer (Volt Vision)
-- Using Luma alongside existing tools
-- Fortnox "read-only" mode (no risk to accounting)
-- Daily feedback sessions
-
-### Step 2: Beta
-**When:** Late February 2026
-
-- Pilot customers use Luma for real work
-- Full Fortnox integration enabled
-- Additional pilot customers onboarded
-- Rapid iteration based on feedback
-
----
-
 ## What We're Looking For
 
 ### Ideal Pilot Customer
