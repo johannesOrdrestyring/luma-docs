@@ -6,6 +6,36 @@ What we've been building. Updated as we ship.
 
 ## February 2026
 
+### [February 24, 2026 — Create Customer — Now a Bottom Sheet](/changelog/2026-02#february-24-2026)
+Creating a new customer now opens as a slide-up bottom sheet instead of a full-screen modal. It matches the same pattern as "Did a Job" — with a sticky swipe button at the bottom and proper keyboard handling.
+
+### [February 24, 2026 — Call Log — Customer Search & Inline Creation](/changelog/2026-02#february-24-2026)
+The "Log Call" sheet now has a proper customer picker with search and the ability to create new customers without leaving the flow.
+
+### [February 24, 2026 — Job Detail — Keyboard No Longer Covers Notes](/changelog/2026-02#february-24-2026)
+When editing the Notes (Work Done / Remarks) fields on a job, the keyboard covered the text input so you couldn't see what you were typing. Now the view scrolls up automatically.
+
+### [February 24, 2026 — Quote Versioning](/changelog/2026-02#february-24-2026)
+Quotes now support version history. When you revise a quote, the previous version is preserved and a new version is created — so you always have a record of what was sent.
+
+### [February 23, 2026 — 13 User-Reported Bugs Fixed](/changelog/2026-02#february-23-2026)
+A batch of bugs reported by pilot users have been resolved, covering signup, customer views, job entry, and more.
+
+### [February 22, 2026 — Sprout Design System — Web](/changelog/2026-02#february-22-2026)
+The web app now uses the Aceve green color palette across all components, matching the mobile app's Sprout design system. Dark mode uses a green-tinted background instead of flat black.
+
+### [February 22, 2026 — Keyboard No Longer Covers Input Fields](/changelog/2026-02#february-22-2026)
+Tapping a text field at the bottom of a form (like the description field when creating a job) no longer gets hidden behind the keyboard. The app now auto-scrolls to keep the focused field visible.
+
+### [February 22, 2026 — New Date & Time Pickers](/changelog/2026-02#february-22-2026)
+Date and time fields now use native iOS spinner wheels in a styled container instead of raw text inputs. Available when creating jobs, booking calendar events, and scheduling work.
+
+### [February 22, 2026 — Document Re-Analyze Now Works](/changelog/2026-02#february-22-2026)
+Previously, re-analyzing a document would silently fail if it had been analyzed before (even if the first attempt returned empty results). This is now fixed — re-analyze always processes the document fresh.
+
+### [February 22, 2026 — Automatic TestFlight Submission](/changelog/2026-02#february-22-2026)
+Production builds now automatically submit to TestFlight after building — no more manual step required.
+
 ### [February 18, 2026 — "Got a Request" — Create Quotes from What Happened?](/changelog/2026-02#february-18-2026)
 The "What happened?" flow now includes a 6th option: **Got a Request**. When a customer asks for a quote, tap it and go straight to creating one. Quotes are also no longer a separate tab at the bottom — they live under Jobs alongside Customers, Invoices, and Documents.
 
